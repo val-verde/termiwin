@@ -26,6 +26,8 @@
 #define TERMIWIN_MAJOR_VERSION 1
 #define TERMIWIN_MINOR_VERSION 2
 
+#include <limits.h>
+
 #ifdef _WIN32
 
 #define WIN32_LEAN_AND_MEAN
